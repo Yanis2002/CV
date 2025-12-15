@@ -1,8 +1,8 @@
 # CV
 
-Python JS JT
+- Python JS JT
 
-Web 
-Tokio Docker GitLab CI/CD Ubuntu Linux 
+- Web 
+- Tokio Docker GitLab CI/CD Ubuntu Linux 
 
-PostgreSQL MongoDB
+- PostgreSQL MongoDB
